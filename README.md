@@ -14,7 +14,7 @@ npm install
 ## Page view 📷
 
 <p align="center">
-<img src="./public/games.jpg" width=75%>
+<img src="https://ik.imagekit.io/freshman/ezgif-5-c7a71548bba7_dZ-BTIywKy4.gif?tr=orig-true" width=75%>
 </p>
 
 ## In the project directory, you can run: ✅
