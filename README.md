@@ -11,6 +11,12 @@ cd pomodoro-app
 npm install
 ```
 
+## Page view 📷
+
+<p align="center">
+<img src="./public/games.jpg" width=75%>
+</p>
+
 ## In the project directory, you can run: ✅
 
 ### `npm start`
